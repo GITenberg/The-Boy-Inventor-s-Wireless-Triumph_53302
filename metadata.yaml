@@ -1,0 +1,31 @@
+_repo: The-Boy-Inventor-s-Wireless-Triumph_53302
+_version: 0.0.1
+alternative_title: The Boy Inventors' Wireless Triumph
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Bonner, Richard
+    gutenberg_agent_id: '5217'
+    url: http://www.gutenberg.org/2009/agents/5217
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraph, Wireless -- Juvenile fiction'
+- !lcsh 'Inventors -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Boy Inventor's Wireless Triumph
+url: http://www.gutenberg.org/ebooks/53302
